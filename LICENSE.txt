@@ -1,0 +1,14 @@
+Facial Landmark Detection Demo  
+© 2025 Harshvi Patel
+
+This model and demo code are provided for personal, academic, and demonstration purposes only.
+
+You are NOT permitted to:
+- Use this model or code for commercial purposes
+- Modify, retrain, or redistribute this model
+- Reverse-engineer the full training pipeline or architecture
+
+For research collaborations or commercial use, please contact the author.
+
+Author: Harshvi Patel  
+LinkedIn: www.linkedin.com/in/harshvi-patel-508452255
